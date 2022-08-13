@@ -2,7 +2,7 @@ background{
  color: cinza;
 }
 
-#title, subtitle, post_title{
+#title, #subtitle, #post_title{
  color: blue;
 }
 
